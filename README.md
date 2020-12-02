@@ -32,7 +32,7 @@ Comes with error/bug-free, well structured, well-commented code and regularly wi
 
 <br />
 
-![Flask Dashboard DattaAble - Starter project coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable/master/media/flask-dashboard-dattaable-screen.png)
+![Datta Able Flask - Seed Project coded in Flask.](https://raw.githubusercontent.com/app-generator/cth-flask-dashboard-dattaable/master/media/datta-able-flask-intro.gif)
 
 <br />
 
